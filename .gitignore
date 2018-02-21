@@ -1,0 +1,10 @@
+dea related
+.idea
+*.iml
+out
+.settings/
+.classpath
+.project
+
+# osx related
+.DS_Store
